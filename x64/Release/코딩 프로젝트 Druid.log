@@ -1,0 +1,27 @@
+﻿  엔딩.c
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(1,1): warning C4828: 파일에 0x42b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(21,15): warning C4013: '동물엔딩'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(26,74): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(26,74): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(27,15): warning C4013: '벌레엔딩'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(32,80): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(32,80): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(33,15): warning C4013: '식물엔딩'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  이벤트동3.c
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(23,8): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(36,16): warning C4013: '키보드'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(62,33): warning C4013: '나어때진진1선택'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(84,17): warning C4013: '동물진화2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(155,30): warning C4013: '여행진진1선택'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(253,39): warning C4013: '옆집고양이진진1선택'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(347,30): warning C4013: '빗질진진1선택'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(441,30): warning C4013: '영화진진1선택'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\이벤트동3.c(495,12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\엔딩.c(35): warning C4716: '엔딩': 값을 반환해야 합니다.
+C:\Users\USER\source\repos\코딩 프로젝트 Druid\코딩 프로젝트 Druid\진화.c(159): warning C4716: '진화시키기': 값을 반환해야 합니다.
+  9 of 156 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  코딩 프로젝트 Druid.vcxproj -> C:\Users\USER\source\repos\코딩 프로젝트 Druid\x64\Release\코딩 프로젝트 Druid.exe
